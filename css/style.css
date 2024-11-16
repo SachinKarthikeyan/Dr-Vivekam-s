@@ -236,7 +236,10 @@ nav{
   .whatsapp-icon {
 	margin-top: 16px;
   }
-
+.faq-image{
+	height: 400px;
+	z-index: -1;
+}
   /* for mobile */
   @media screen and (max-width: 767px){
 	.whatsapp-icon {
